@@ -8,4 +8,4 @@ int numberB = Convert.ToInt32(Console.ReadLine());
 
 int max = Math.Max(numberA, numberB);
 
-Console.WriteLine("max of "+numberA+" and "+numberB+" is " + max);
+Console.WriteLine("max of " + numberA + " and " + numberB + " is " + max);
