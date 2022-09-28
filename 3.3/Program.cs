@@ -6,5 +6,4 @@ int number = Convert.ToInt32(Console.ReadLine());
 
 bool isEven = number % 2 == 0;
 
-
-Console.WriteLine("number " + number + " is "+(isEven ? "" : "not ")+"even");
+Console.WriteLine("number " + number + " is " + (isEven ? "" : "not ") + "even");
